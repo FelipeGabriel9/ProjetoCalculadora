@@ -145,7 +145,7 @@ namespace Calculadora.Core
         public static string ConverterInfixaParaPosfixa(string infixaLetras)
         {
             var resultado = new StringBuilder();
-            var pilha = new PilhaLista<char>();
+            var pilha = new Pilha<char>();
 
             foreach (char simboloLido in infixaLetras)
             {
@@ -204,7 +204,7 @@ namespace Calculadora.Core
 
         public static double ValorDaExpressaoPosfixa(string cadeiaPosfixa, double[] valores)
         {
-            var pilha = new PilhaLista<double>();
+            var pilha = new Pilha<double>();
 
             foreach (char simbolo in cadeiaPosfixa)
             {
