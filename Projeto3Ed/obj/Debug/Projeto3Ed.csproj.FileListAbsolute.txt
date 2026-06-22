@@ -15,3 +15,13 @@ C:\Users\Pichau\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto
 C:\Users\Pichau\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.csproj.CoreCompileInputs.cache
 C:\Users\Pichau\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.exe
 C:\Users\Pichau\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.pdb
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.csproj.AssemblyReference.cache
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.apCalculadora.resources
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.Properties.Resources.resources
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.csproj.GenerateResource.cache
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.csproj.CoreCompileInputs.cache
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\bin\Debug\Projeto3Ed.exe.config
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\bin\Debug\Projeto3Ed.exe
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\bin\Debug\Projeto3Ed.pdb
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.exe
+C:\Users\u25130\Documents\GitHub\ProjetoCalculadora\Projeto3Ed\obj\Debug\Projeto3Ed.pdb
