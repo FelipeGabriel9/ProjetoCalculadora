@@ -1,0 +1,10 @@
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\obj\Debug\Projeto3Ed.csproj.AssemblyReference.cache
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\obj\Debug\Projeto3Ed.apCalculadora.resources
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\obj\Debug\Projeto3Ed.Properties.Resources.resources
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\obj\Debug\Projeto3Ed.csproj.GenerateResource.cache
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\obj\Debug\Projeto3Ed.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\bin\Debug\Projeto3Ed.exe.config
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\bin\Debug\Projeto3Ed.exe
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\bin\Debug\Projeto3Ed.pdb
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\obj\Debug\Projeto3Ed.exe
+C:\Users\Pichau\OneDrive\Desktop\COTUCA\2ano\TECNICO\TI221 - Estrutura de Dados\Estruturas\Projeto3Ed\obj\Debug\Projeto3Ed.pdb
